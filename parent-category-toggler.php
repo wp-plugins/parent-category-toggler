@@ -3,7 +3,7 @@
 Plugin Name: Parent Category Toggler
 Plugin URI: http://wordpress.org/extend/plugins/parent-category-toggler/
 Description: Automatically toggle the parent categories when a sub category is selected.
-Version: 1.0
+Version: 1.01
 Author: Aw Guo
 Author URI: http://www.ifgogo.com
 Licence: GPL
