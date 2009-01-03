@@ -4,6 +4,7 @@ Donate link: http://www.awflasher.com/donations/
 Tags: category, toggle, parent
 Requires at least: 2.5
 Tested up to: 2.7
+Stable tag: 1.02
 
 Automatically toggle the parent categories when a sub category is selected.
 
