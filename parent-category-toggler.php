@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Parent Category Toggler
-Plugin URI: http://www.awflasher.com/blog/
+Plugin URI: http://wordpress.org/extend/plugins/parent-category-toggler/
 Description: Automatically toggle the parent categories when a sub category is selected.
 Version: 1.0
 Author: Aw Guo
-Author URI: http://www.awflasher.com/blog/
+Author URI: http://www.ifgogo.com
 Licence: GPL
 */
 
