@@ -15,3 +15,10 @@ Automatically toggle the parent categories when a sub category is selected.
 == Screenshots ==
 
 1. A simple introduction:
+
+== Changelog ==
+
+= 1.03 =
+* Plugin maint taken over by Ben Lobaugh due to abandonment
+* Tested up to version updated
+* Bumped back into the repository
