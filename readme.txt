@@ -1,6 +1,5 @@
 === Parent Category Toggler ===
-Contributors: Aw Guo
-Donate link: http://www.awflasher.com/donations/
+Contributors: blobaugh, Aw Guo
 Tags: category, toggle, parent
 Requires at least: 2.5
 Tested up to: 3.4.1
