@@ -1,5 +1,5 @@
 === Parent Category Toggler ===
-Contributors: blobaugh, Aw Guo
+Contributors: blobaugh, freshmuse, Aw Guo
 Tags: category, toggle, parent
 Requires at least: 2.5
 Tested up to: 3.4.1
