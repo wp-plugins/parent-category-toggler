@@ -1,5 +1,5 @@
 === Parent Category Toggler ===
-Contributors: blobaugh, freshmuse, Aw Guo
+Contributors: blobaugh, guar, freshmuse, Aw Guo
 Tags: category, toggle, parent
 Requires at least: 2.5
 Tested up to: 3.4.2
@@ -26,7 +26,7 @@ by default.
 == Changelog ==
 
 = 1.2 =
-* Added filter super_category_toggler to control which taxonomies will automagically toggle ( Props Mark Sharp )
+* Added filter super_category_toggler to control which taxonomies will automagically toggle ( Props guar )
 
 = 1.03 =
 * Plugin maint taken over by Ben Lobaugh due to abandonment
