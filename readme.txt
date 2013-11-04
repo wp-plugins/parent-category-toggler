@@ -25,7 +25,7 @@ by default.
 
 == Changelog ==
 == 1.3 ==
-*Updated functionality to 3.7.1
+* Updated functionality to 3.7.1
 
 = 1.2 =
 * Added filter super_category_toggler to control which taxonomies will automagically toggle ( Props guar )
