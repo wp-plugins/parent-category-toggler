@@ -2,7 +2,7 @@
 Contributors: blobaugh, guar, freshmuse, Aw Guo, NikV
 Tags: category, toggle, parent
 Requires at least: 2.5
-Tested up to: 4.0
+Tested up to: 4.1
 Stable tag: trunk
 
 Automatically toggle the parent categories when a sub category is selected.
@@ -24,6 +24,9 @@ by default.
 1. A simple introduction:
 
 == Changelog =
+
+=== 1.3.2 ==
+* Only load plugin assets on post (CPT included) new/edit pages in wp-admin ( Props bishoya )
 
 == 1.3.1 == 
 * Verify working with WP 4.0 Alpha
